@@ -1,6 +1,7 @@
-package com.company.steve.Merge2LinkedList;
+package LinkedList.Merge2LinkedList;
 
-import com.company.steve.CommonDataStructure.ListNode;
+
+import CommonDataStructure.ListNode;
 
 public class SolutionTest {
 
